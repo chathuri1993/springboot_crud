@@ -1,0 +1,15 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: rebeccapurple;
+}
+
+strong {
+    font-weight: 700;
+    background-color: yellow;
+}
+
+p {
+    font-family: sans-serif;
+}
